@@ -1,5 +1,6 @@
 public class Box {
     private int size;
+    private String name;
 
     public Box() {
     }
