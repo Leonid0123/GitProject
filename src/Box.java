@@ -1,6 +1,6 @@
 public class Box {
     private int size;
-    private String name;
+    private String name2;
 
     public Box() {
     }
